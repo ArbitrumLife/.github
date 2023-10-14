@@ -1,4 +1,6 @@
-ARBITRUM.LIFE is a web3 pixel world game on Arbitrum, launching May 2023
+ARBITRUM.LIFE is an earn2play web3 pixel world game on Arbitrum.
+
+[PLAY](https://game.arbitrum.life/)
 
 # Links
 
